@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm a computational material scientist/physicist and a software developer working at the Max-Planck-Institut für Eisenforschung in Düsseldorf, Germany.
+
+- 😄 Pronouns: he/him
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sudarsan-surendralal&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sudarsan-surendralal&langs_count=5&theme=tokyonight)]()
+
+
 <!--
 **sudarsan-surendralal/sudarsan-surendralal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
