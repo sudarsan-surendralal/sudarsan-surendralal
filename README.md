@@ -3,10 +3,9 @@
 I'm a computational material scientist/physicist and a software developer working at the Max-Planck-Institut für Eisenforschung in Düsseldorf, Germany.
 
 - 😄 Pronouns: he/him
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sudarsan-surendralal&count_private=true&theme=tokyonight&showicons=true)]()
-
-<!--[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sudarsan-surendralal&langs_count=5&theme=tokyonight)]()-->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sudarsan-surendralal&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats"/>
+</p>
 
 
 <!--
