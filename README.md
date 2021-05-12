@@ -1,9 +1,14 @@
-### Hi there 👋
+## About me:
 
 I'm a computational material scientist/physicist and a software developer working at the Max-Planck-Institut für Eisenforschung in Düsseldorf, Germany.
 
-- 😄 Pronouns: he/him
 
+## GitHub stats:  
+
+
+<a href="https://github-readme-stats-anuraghazra1.vercel.app/api?username=sudarsan-surendralal">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sudarsan-surendralal&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+</a>  
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sudarsan-surendralal&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
