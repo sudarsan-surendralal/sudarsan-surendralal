@@ -10,7 +10,7 @@ I'm a computational material scientist/physicist and a software developer workin
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sudarsan-surendralal&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
 </a>  
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sudarsan-surendralal&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sudarsan-surendralal&theme=dracula&hide_border=true)](https://git.io/streak-stats) -->
 
 
 <!--
