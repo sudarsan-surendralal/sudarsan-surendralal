@@ -2,11 +2,11 @@
 
 I'm a computational material scientist, data scientist, and a software developer working at the Max-Planck-Institut für Eisenforschung in Düsseldorf, Germany. I mainly develop software for automating atomistic simulation protocols and use various data science methods to analyse these simulations. I'm also a Google certified Tensorflow developer.
 
-## Certifications
+<!-- ## Certifications
 
 <a href="https://www.credential.net/41ed480c-fd52-416c-84ea-77ddbfcfffa0#gs.7x6qp7">
   <img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/36169031" alt="My Tensorflow Badge" />
-</a>  
+</a>   -->
 
 
 ## GitHub stats
