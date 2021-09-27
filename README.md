@@ -1,6 +1,6 @@
 ## About me
 
-I'm a computational material scientist, data scientist, and a software developer working at the Max-Planck-Institut für Eisenforschung in Düsseldorf, Germany. I mainly develop software for automating atomistic simulation protocols and use various data science methods to analyse these simulations.
+I'm a computational material scientist and software developer working at the Max-Planck-Institut für Eisenforschung in Düsseldorf, Germany. I mainly develop software for automating atomistic simulation protocols and use various methods to analyse these simulations.
 
 <!-- ## Certifications
 
