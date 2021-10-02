@@ -16,7 +16,7 @@ I'm a computational material scientist and software developer working at the Max
 
 ## Templates developed
 
-[matsci_thesis](https://github.com/sudarsan-surendralal/matsci-thesis): A LateX based template for doctoral/master thesis (esp for materials science)
+[matsci_thesis](https://github.com/sudarsan-surendralal/matsci-thesis): A LateX based template for doctoral/master thesis (especially for materials science)
 
 
 ## GitHub stats
