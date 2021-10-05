@@ -15,7 +15,7 @@ I'm a computational material scientist and software developer working at the Max
 
 ## Contributed teaching modules/tutorials (selected)
 
-[Workflows for Atomistic Simulations 2021](https://github.com/pyiron/potentials-workshop-2021): JupyterLab based tutorials for atomistic simulation workflows and potential fitting using pyiron
+[Workflows for Atomistic Simulations 2021](https://github.com/pyiron/potentials-workshop-2021): JupyterLab based tutorials for atomistic simulation workflows and interatomic potential development using pyiron  
 [pyiron Virtual Workshop 2020](https://github.com/pyiron/pyiron-virtual-workshop-2020): JupyterLab based tutorials for introduction to atomistic simulations using pyiron
 
 
