@@ -13,6 +13,12 @@ I'm a computational material scientist and software developer working at the Max
 [pyiron_base](https://github.com/pyiron/pyiron_base): A python based IDE for computational workflows  
 [pyiron_atomistics](https://github.com/pyiron/pyiron_atomistics): Library for atomistic similation workflows 
 
+## Contributed teaching modules/tutorials (selected)
+
+[Workflows for Atomistic Simulations 2021](https://github.com/pyiron/potentials-workshop-2021): JupyterLab based tutorials for atomistic simulation workflows and potential fitting using pyiron
+[pyiron Virtual Workshop 2020](https://github.com/pyiron/pyiron-virtual-workshop-2020): JupyterLab based tutorials for introduction to atomistic simulations using pyiron
+
+
 
 ## Templates developed
 
