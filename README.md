@@ -8,7 +8,7 @@ I'm a computational material scientist and software developer working at the Max
   <img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/36169031" alt="My Tensorflow Badge" />
 </a>   -->
 
-## Contribured open-source scientific projects (selected)
+## Major open-source scientific projects
 
 [pyiron_base](https://github.com/pyiron/pyiron_base): A python based IDE for computational workflows  
 [pyiron_atomistics](https://github.com/pyiron/pyiron_atomistics): Library for atomistic similation workflows 
