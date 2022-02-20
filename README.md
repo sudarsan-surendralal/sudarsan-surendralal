@@ -1,5 +1,5 @@
-## About me
-
+<!-- ## About me
+ -->
 I'm a computational material scientist and software developer working at the Max-Planck-Institut für Eisenforschung in Düsseldorf, Germany. 
 
 <!-- ## Certifications
@@ -7,7 +7,7 @@ I'm a computational material scientist and software developer working at the Max
 <a href="https://www.credential.net/41ed480c-fd52-416c-84ea-77ddbfcfffa0#gs.7x6qp7">
   <img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/36169031" alt="My Tensorflow Badge" />
 </a>   -->
-
+<!-- 
 ## Current open-source scientific projects
 
 [pyiron_base](https://github.com/pyiron/pyiron_base): A python based IDE for computational workflows  
@@ -23,11 +23,11 @@ I'm a computational material scientist and software developer working at the Max
 ## Templates developed
 
 [matsci_thesis](https://github.com/sudarsan-surendralal/matsci-thesis): A LateX based template for doctoral/master thesis (especially for materials science)
-
-
+ -->
+<!-- 
 ## GitHub stats
 
-
+ -->
 <a href="https://github-readme-stats-anuraghazra1.vercel.app/api?username=sudarsan-surendralal">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sudarsan-surendralal&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
 </a>  
