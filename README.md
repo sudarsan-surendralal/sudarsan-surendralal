@@ -1,6 +1,6 @@
 ## About me
 
-I'm a computational material scientist and software developer working at the Max-Planck-Institut für Eisenforschung in Düsseldorf, Germany.
+I'm a senior data scientist working at GroupM Germany. Before that I was a computational materials scientist and scientific software developer.
 
 ## GitHub stats
 
