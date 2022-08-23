@@ -1,6 +1,6 @@
 ## About me
 
-I'm a senior data scientist working at GroupM Germany. Before that I was a computational materials scientist and scientific software developer.
+I'm a senior data scientist working at GroupM Germany. Before this, I was a computational materials scientist and scientific software developer.
 
 ## GitHub stats
 
