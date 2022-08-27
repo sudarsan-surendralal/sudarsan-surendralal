@@ -8,6 +8,10 @@ I'm a senior data scientist working at GroupM Germany. Before this, I was a comp
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sudarsan-surendralal&show_icons=true&line_height=27&include_all_commits=true&theme=tokyonight" alt="My github stats" />
 </a>  
 
+##
+
+<a href="https://www.linkedin.com/in/sudarsan-surendralal" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="sudarsan-surendralal" height="40"/></a>
+
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sudarsan-surendralal&theme=dracula&hide_border=true)](https://git.io/streak-stats) -->
 
 
