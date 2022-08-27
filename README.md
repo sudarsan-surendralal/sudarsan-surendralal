@@ -8,7 +8,9 @@ I'm a senior data scientist working at GroupM Germany. Before this, I was a comp
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sudarsan-surendralal&show_icons=true&line_height=27&include_all_commits=true&theme=tokyonight" alt="My github stats" />
 </a>  
 
-##
+## Contact Me
+
+I'd be happy to connect with you over the following platforms:
 
 <a href="https://www.linkedin.com/in/sudarsan-surendralal" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="sudarsan-surendralal" height="40"/></a>
 
